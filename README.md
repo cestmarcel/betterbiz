@@ -19,8 +19,7 @@
 
   ## Description
  <p> BetterBiz is a platform that serves both customers and businesses. For our businesses we want to provide a platform where entrepreneurs can showcase their business and allow them to reach out and connect to more people.  For our users we want to connect them with communities that they care about and be able to support new local businesses. As Torontonians we are proud of our diversity, especially in the small business sector. However, many businesses that are classified as minority are overlooked or simply not given enough credit. BetterBiz wants to shine the spotlight on those businesses and help people support their communities.
- 
- <br>The application is accessible under: https://betterbiz01.herokuapp.com </p>  
+ </p>  
 
 ### Core features
 
